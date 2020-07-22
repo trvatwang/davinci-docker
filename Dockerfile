@@ -1,5 +1,5 @@
 FROM node
 COPY . /webapp
 RUN set -eux \
-  ; npm install \
-  ; npm start
+  ; npm install
+CMD [ "npm","start" ]
