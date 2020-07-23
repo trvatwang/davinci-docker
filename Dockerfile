@@ -1,5 +1,5 @@
 FROM node
-COPY webapp /
+COPY webapp /webapp
 WORKDIR /webapp
 RUN set -eux \
   ; npm install
