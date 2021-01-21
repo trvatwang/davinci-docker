@@ -77,7 +77,7 @@
     "history": "4.9.0",
     "hoist-non-react-statics": "3.3.0",
     "html2canvas": "^1.0.0-rc.5",
-    "immer": "^4.0.2",
+    "immer": "^8.0.1",
     "immutable": "^4.0.0-rc.12",
     "intersection-observer": "^0.11.0",
     "intl": "1.2.5",
