@@ -113,7 +113,7 @@
     "slate-history": "^0.57.1",
     "slate-hyperscript": "^0.57.1",
     "slate-react": "^0.57.1",
-    "three": "^0.101.1",
+    "three": "^0.125.0",
     "ua-parser-js": "^0.7.20",
     "warning": "4.0.2"
   },
